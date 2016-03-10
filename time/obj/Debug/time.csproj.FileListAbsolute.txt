@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\time\time\bin\Debug\time.exe.config
+C:\Users\Ayan\yeshimkenovayan\time\time\bin\Debug\time.exe
+C:\Users\Ayan\yeshimkenovayan\time\time\bin\Debug\time.pdb
+C:\Users\Ayan\yeshimkenovayan\time\time\obj\Debug\time.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\time\time\obj\Debug\time.exe
+C:\Users\Ayan\yeshimkenovayan\time\time\obj\Debug\time.pdb
