@@ -1,0 +1,9 @@
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\bin\Debug\dvizheniRisunka.exe.config
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\bin\Debug\dvizheniRisunka.exe
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\bin\Debug\dvizheniRisunka.pdb
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\obj\Debug\dvizheniRisunka.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\obj\Debug\dvizheniRisunka.Form1.resources
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\obj\Debug\dvizheniRisunka.Properties.Resources.resources
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\obj\Debug\dvizheniRisunka.csproj.GenerateResource.Cache
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\obj\Debug\dvizheniRisunka.exe
+C:\Users\Ayan\2attestation\dvizheniRisunka\dvizheniRisunka\obj\Debug\dvizheniRisunka.pdb

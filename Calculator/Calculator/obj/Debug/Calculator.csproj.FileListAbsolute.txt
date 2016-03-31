@@ -1,0 +1,9 @@
+C:\Users\Ayan\2attestation\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ayan\2attestation\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ayan\2attestation\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ayan\2attestation\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\2attestation\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Ayan\2attestation\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ayan\2attestation\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ayan\2attestation\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ayan\2attestation\Calculator\Calculator\obj\Debug\Calculator.pdb

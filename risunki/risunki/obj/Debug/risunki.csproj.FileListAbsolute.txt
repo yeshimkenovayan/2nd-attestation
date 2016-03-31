@@ -1,0 +1,9 @@
+C:\Users\Ayan\2attestation\risunki\risunki\bin\Debug\risunki.exe.config
+C:\Users\Ayan\2attestation\risunki\risunki\bin\Debug\risunki.exe
+C:\Users\Ayan\2attestation\risunki\risunki\bin\Debug\risunki.pdb
+C:\Users\Ayan\2attestation\risunki\risunki\obj\Debug\risunki.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\2attestation\risunki\risunki\obj\Debug\risunki.Form1.resources
+C:\Users\Ayan\2attestation\risunki\risunki\obj\Debug\risunki.Properties.Resources.resources
+C:\Users\Ayan\2attestation\risunki\risunki\obj\Debug\risunki.csproj.GenerateResource.Cache
+C:\Users\Ayan\2attestation\risunki\risunki\obj\Debug\risunki.exe
+C:\Users\Ayan\2attestation\risunki\risunki\obj\Debug\risunki.pdb
