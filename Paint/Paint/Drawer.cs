@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Paint
 {
-    public enum Shape { Pencil, Rectangle, Circle, Line, Eraser, Triangle, Fill}
+    public enum Shape { Pencil, Rectangle, Circle, Line, Eraser, Triangle, Fill, Trapec}
 
     class Drawer
     {
@@ -89,6 +89,11 @@ namespace Paint
                     path = new GraphicsPath();
                     Point[] arr = { prev, cur, new Point(cur.X - 2*(cur.X-prev.X), cur.Y) };
                     path.AddPolygon(arr);
+                    break;
+                case Shape.Trapec:
+                    path = new GraphicsPath();
+                    Point[] rr = { prev, new Point(cur.X - prev.X, prev.Y), cur, new Point(prev.X - prev.X, cur.Y) };
+                    path.AddPolygon(rr);
                     break;
                 default:
                     break;

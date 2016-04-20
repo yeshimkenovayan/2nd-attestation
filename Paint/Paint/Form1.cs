@@ -136,5 +136,10 @@ namespace Paint
         {
             Cursor = Cursors.Hand;
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            drawer.shape = Shape.Trapec;
+        }
     }
 }
